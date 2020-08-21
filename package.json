@@ -1,0 +1,19 @@
+{
+  "name": "floating-point-fails",
+  "version": "1.0.0",
+  "description": "A simple NodeJS template for GitHub",
+  "main": "examples.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenEdridge/floating-point-fails.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenEdridge/floating-point-fails/issues"
+  },
+  "homepage": "https://github.com/BenEdridge/floating-point-fails#readme"
+}
